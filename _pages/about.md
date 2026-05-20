@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), Beijing, China. My research interests lie in **Network Security** and **Software/Large Model Supply Chain Security**.
+I am a Ph.D. candidate at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), Beijing, China, advised by Prof. [Yuchao Zhang](https://yuchaozhang.weebly.com/publication.html) and Prof. Wendong Wang. I am a member of the [DANCE Group](https://yuchaozhang.weebly.com/publication.html), where I serve as the Principal Investigator of the security research direction, leading the **DANCE SEC** team. My research focuses on **Network Security** and **Software/Large Model Supply Chain Security**.
+
+Outside of research, you can find me on the basketball court (always down for a pickup game), trying to nail a new song on guitar, or losing table tennis rallies to people who claim they "don't play that much." I'm an INTJ — which means I'll analyze your network traffic for vulnerabilities but won't judge your code (much). Feel free to reach out; I promise I'm friendlier than my threat models suggest.
 
 ## Education
 
