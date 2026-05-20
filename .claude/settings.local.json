@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:doi.org)",
+      "Read(//c/Users/ShaoxuanYun/Downloads/**)",
+      "WebFetch(domain:dl.acm.org)",
+      "Bash(python3 -c ' *)",
+      "Bash(python -c ' *)",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/2026-icse.pdf\" -)",
+      "Bash(cp \"c:/Users/ShaoxuanYun/Downloads/2026-icse.pdf\" \"d:/workspace/howardyun.github.io/files/2026-icse-secret-keys-leakage.pdf\")",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/DGA_JISA \\(4\\).pdf\" -)",
+      "WebFetch(domain:www.sciencedirect.com)",
+      "Bash(grep -i -E \"10\\\\.\\\\d{4,}\")",
+      "WebSearch",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/2026-icse-token-hijacking.pdf\" -)",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/icse26-78.pdf\" -)",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/DSCC.pdf\" -)",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/icse26-token-hijacking.pdf\" -)",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/apnet2025-43.pdf\" -)",
+      "Bash(pdftotext \"c:/Users/ShaoxuanYun/Downloads/TokenValid.pdf\" -)"
+    ],
+    "additionalDirectories": [
+      "c:\\Users\\ShaoxuanYun\\Downloads"
+    ]
+  }
+}

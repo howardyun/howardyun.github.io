@@ -11,12 +11,12 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Shaoxuan Yun"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
-                                                           # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Shaoxuan Yun"
+description              : &description "Shaoxuan Yun's academic portfolio - PhD student at BUPT researching AI for Network Security and Software/Model Supply Chain Security"
+url                      : https://howardyun.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+                                                       # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "howardyun/howardyun.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Shaoxuan Yun"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. student at BUPT. Research interests: AI for Network Security, Software/Model Supply Chain Security."
   location         : "Beijing"
   employer         : "Beijing University of Posts and Telecommunications"
   uri              : # URL
