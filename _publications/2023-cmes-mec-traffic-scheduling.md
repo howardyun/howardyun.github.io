@@ -2,6 +2,7 @@
 title: "Intelligent Traffic Scheduling for Mobile Edge Computing in IoT via Deep Learning"
 collection: publications
 category: manuscripts
+order: 1
 permalink: /publication/2023-cmes-mec-traffic-scheduling
 excerpt: 'We propose DLTSA, a Deep Learning-Based Traffic Scheduling Approach for Mobile Edge Computing in IoT that translates the scheduling problem into a classification problem to jointly optimize energy cost and computing resource allocation.'
 date: 2023-01-01

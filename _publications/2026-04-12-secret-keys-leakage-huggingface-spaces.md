@@ -2,6 +2,7 @@
 title: "A Large-Scale Empirical Study of Secret Keys Leakage in Hugging Face Spaces"
 collection: publications
 category: conferences
+order: 6
 permalink: /publication/2026-04-12-secret-keys-leakage-huggingface-spaces
 excerpt: 'This paper presents the first large-scale and systematic empirical study to quantify the extent of secret key leakage in Hugging Face Spaces, identifying 9,149 vulnerable repositories and 11,557 unique leaked keys.'
 date: 2026-04-12

@@ -2,6 +2,7 @@
 title: "SMAD: Robust DGA detection approach based on Improved Attention Mechanism"
 collection: publications
 category: manuscripts
+order: 5
 permalink: /publication/2026-smad-dga-detection
 excerpt: 'We propose SMAD, a DGA detection approach that improves robustness against adversarially crafted domains and generalization to unseen DGA families through a novel Shift-Attention mechanism.'
 date: 2026-01-01

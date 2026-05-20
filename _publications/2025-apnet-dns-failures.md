@@ -2,6 +2,7 @@
 title: "Understanding DNS Failures at Scale: Fine-grained Classification and Root Cause Analysis"
 collection: publications
 category: conferences
+order: 3
 permalink: /publication/2025-apnet-dns-failures
 excerpt: 'We present a DNS failure analysis framework combining coarse- and fine-grained perspectives over time, using a real-world dataset of 2.5 billion DNS records to systematically identify and classify major DNS failure patterns.'
 date: 2025-08-07

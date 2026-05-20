@@ -2,6 +2,7 @@
 title: "HybridDep: An elastic hybrid resources allocation strategy for I/O-intensive applications"
 collection: publications
 category: manuscripts
+order: 2
 permalink: /publication/2025-iet-hybriddep
 excerpt: 'We propose HybridDep, an elastic hybrid deployment strategy for multiple I/O-intensive applications that exploits staggered peak and valley patterns in both temporal and spatial dimensions to minimize deployment cost while ensuring QoS.'
 date: 2025-01-03

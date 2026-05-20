@@ -2,6 +2,7 @@
 title: "DSCC: Dynamic synergistic congestion control for lossless RDMA datacenter networks"
 collection: publications
 category: manuscripts
+order: 4
 permalink: /publication/2026-dscc-rdma-congestion-control
 excerpt: 'We propose DSCC, a dynamic and synergistic congestion control algorithm that combines PFC and ECN for lossless RDMA datacenter networks, achieving up to 19.2% reduction in flow completion time.'
 date: 2026-03-01
