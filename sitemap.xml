@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://howardyun.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/publications/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/talks/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/teaching/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/portfolio/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/year-archive/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/cv/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/markdown/</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/feed.xml</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://howardyun.github.io/sitemap</loc>
+ <priority>0.3</priority>
+ <lastmod>2026-05-20</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
