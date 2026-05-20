@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), Beijing, China. My research interests lie in **Network Security** and **Software/Large Model Supply Chain Security**.
+I am a Ph.D. candidate at [Beijing University of Posts and Telecommunications (BUPT)](https://www.bupt.edu.cn/), Beijing, China. My research interests lie in **Network Security** and **Software/Large Model Supply Chain Security**.
 
 ## Education
 
@@ -24,13 +24,24 @@ I am a Ph.D. student at [Beijing University of Posts and Telecommunications (BUP
 
 {% include base_path %}
 
-{% assign sorted_pubs = site.publications | sort: 'order' %}
+{% assign sorted_pubs = site.publications | sort: 'order' | reverse %}
 {% for post in sorted_pubs limit:5 %}
   {% if post.category == 'conferences' or post.category == 'manuscripts' %}
   - **{{ post.title }}**<br/>
     {{ post.citation | strip_html | replace: '"', '' }} ({{ post.date | date: "%Y" }})
   {% endif %}
 {% endfor %}
+
+## Invited Talks
+
+- **Guest Speaker**, 97th CCF Student Pioneer Program (SPP), China Computer Federation (2024)
+
+## Teaching
+
+- **Guest Lecturer**, School of Public Administration, Renmin University of China (2024)
+  - Invited by faculty to deliver a 6-hour lecture series on Machine Learning for graduate students
+- **Graduate Teaching Assistant**, Future Internet: Emerging Technologies, BUPT (2023 -- 2025)
+  - Assisted in course delivery, lab supervision, and student mentoring
 
 ## Contact
 
