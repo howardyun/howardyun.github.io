@@ -31,7 +31,7 @@ Please feel free to reach out; I promise I'm friendlier than my threat models su
 {% assign sorted_pubs = site.publications | sort: 'order' | reverse %}
 {% for post in sorted_pubs limit:5 %}
   {% if post.category == 'conferences' or post.category == 'manuscripts' %}
-  - **{{ post.title }}**<br/>
+  - **{{ post.title }}**{% if post.ccf_rank %} <span style="background-color: #e74c3c; color: #fff; padding: 1px 6px; border-radius: 3px; font-size: 0.75em; font-weight: bold;">{{ post.ccf_rank }}</span>{% endif %}<br/>
     {{ post.citation | strip_html | replace: '"', '' }} ({{ post.date | date: "%Y" }})
   {% endif %}
 {% endfor %}
